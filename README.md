@@ -1,1 +1,1 @@
-Documenting what I have learned about NLP 
+This repository is for documenting what I have learned about Natural Language Processing. I am working on simple beginner projects. I have several ideas, but right now I am working on a simple tokenizer, a word frequency analyzer, and a program that tests Zipf's law for a given corpus.  
